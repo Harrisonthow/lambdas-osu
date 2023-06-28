@@ -1,0 +1,1 @@
+Sitemap: /lambdas-osu/sitemap.xml
