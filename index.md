@@ -15,8 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="about-us"
+  text="Learn about LPhiE"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,8 +27,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link="about-us"
+  title="Learn about LPhiE"
   text=text
 %}
 
@@ -38,8 +38,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="brothers"
+  text="Meet the Brothers"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -50,8 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  link="brothers"
+  title="Meet the Brothers"
   flip=true
   style="bare"
   text=text
@@ -63,8 +63,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="team"
-  text="Meet our team"
+  link="ujis"
+  text="Discover our Ujis"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="ujis"
+  title="Discover our Ujis"
   text=text
 %}
