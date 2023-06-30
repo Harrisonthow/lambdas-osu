@@ -5,6 +5,12 @@
   rel="stylesheet"
 />
 
+<!-- Required Core Stylesheet -->
+<link rel="stylesheet" href="https://unpkg.com/@glidejs/glide@3.6.0/dist/css/glide.core.min.css">
+
+<!-- Optional Theme Stylesheet -->
+<link rel="stylesheet" href="https://unpkg.com/@glidejs/glide@3.6.0/dist/css/glide.theme.min.css">
+
 <!-- include all sass in styles folder -->
 {% assign styles = site.pages
   | where_exp: "file", "file.url contains '/_styles'"
