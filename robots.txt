@@ -1,1 +1,1 @@
-Sitemap: /lambdas-osu/sitemap.xml
+Sitemap: /sitemap.xml
