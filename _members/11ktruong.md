@@ -1,11 +1,9 @@
 ---
-name: Sarah Johnson
+name: Kenny Truong
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
-links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+role: alum
+group: charter
+description: "#11 'SBD'"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

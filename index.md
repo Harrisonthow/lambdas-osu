@@ -1,9 +1,9 @@
 ---
 ---
 
-# Harrisonthow's Website
+# Associate Chapter of Lambda Phi Epsilon at THE Ohio State University
 
-An engaging 1-3 sentence description of your lab.
+To be leaders among men
 
 {% include section.html %}
 
