@@ -1,6 +1,6 @@
 ---
 name: Tagumpay Sison
-image: images/photo.jpg
+image: images/bros/10tsison.png
 role: alum
 group: charter
 description: "#10 'Pillowtalk'"

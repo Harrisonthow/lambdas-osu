@@ -1,6 +1,6 @@
 ---
 name: Jerry Ta
-image: images/photo.jpg
+image: images/bros/9jta.png
 role: alum
 group: charter
 description: "#9 'Brock'"

@@ -1,6 +1,6 @@
 ---
 name: Alex Chiu
-image: images/photo.jpg
+image: images/bros/22achiu.png
 role: undergrad
 group: beta
 description: "#22 'REYN'"

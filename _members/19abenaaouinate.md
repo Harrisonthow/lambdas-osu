@@ -1,6 +1,6 @@
 ---
 name: Ayoub Benaaouinate
-image: images/photo.jpg
+image: images/bros/19abenaaouinate.png
 role: undergrad
 group: beta
 description: "#19 'PLUTUS'"

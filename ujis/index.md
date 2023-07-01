@@ -9,8 +9,8 @@ nav:
   <div class="glide__track" data-glide-el="track">
     <ul class="glide__slides">
       <a href="1echan"><li class="glide__slide"><img src="images/1EthanChan.png"></li></a>
-      <li class="glide__slide"><img src="images/2NicholasDang.png"></li>
-      <li class="glide__slide"><img src="images/3SeanDupiano.png"></li>
+      <a href="2ndang"><li class="glide__slide"><img src="images/2NicholasDang.png"></li></a>
+      <a href="3sdupiano"><li class="glide__slide"><img src="images/3SeanDupiano.png"></li></a>
       <li class="glide__slide"><img src="images/4KentHoang.png"></li>
       <li class="glide__slide"><img src="images/5AlexNguyen.png"></li>
       <li class="glide__slide"><img src="images/6Redacted.png"></li>

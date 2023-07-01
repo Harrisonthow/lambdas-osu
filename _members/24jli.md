@@ -1,6 +1,6 @@
 ---
 name: James Li
-image: images/photo.jpg
+image: images/bros/24jli.png
 role: undergrad
 group: beta
 description: "#24 'NBA CHUNGBOY'"

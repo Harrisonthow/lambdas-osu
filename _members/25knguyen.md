@@ -1,6 +1,6 @@
 ---
 name: Kelvin Nguyen
-image: images/bros/kelvin.PNG
+image: images/bros/25knguyen.png
 role: undergrad
 group: beta
 description: "#25 'GOOCHIE MΛNE'"

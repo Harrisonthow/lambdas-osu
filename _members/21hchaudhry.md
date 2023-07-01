@@ -1,6 +1,6 @@
 ---
 name: Hamzah Chaudhry
-image: images/photo.jpg
+image: images/bros/21hchaudhry.png
 role: undergrad
 group: beta
 description: "#21 'ΛRETE'"

@@ -1,6 +1,6 @@
 ---
 name: Nicholas Dang
-image: images/photo.jpg
+image: images/bros/2ndang.png
 role: alum
 group: charter
 description: "#2 'Cookin Mama'"

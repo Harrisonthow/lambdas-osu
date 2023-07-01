@@ -1,6 +1,6 @@
 ---
 name: Ethan Chan
-image: images/photo.jpg
+image: images/bros/1echan.png
 group: charter
 role: undergrad
 description: "#1 'Doc McStuffins'"

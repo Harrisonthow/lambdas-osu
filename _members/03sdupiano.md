@@ -1,6 +1,6 @@
 ---
 name: Sean Dupiano
-image: images/photo.jpg
+image: images/bros/3sdupiano.png
 role: alum
 group: charter
 description: "#3 'Wumbo'"

@@ -1,6 +1,6 @@
 ---
 name: Andrew Garcia
-image: images/photo.jpg
+image: images/bros/18agarcia.png
 role: undergrad
 group: alpha
 description: "#18 'PΛNCHAM'"

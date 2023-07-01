@@ -1,5 +1,5 @@
 ---
-title: Ethan Chan Uji
+title: Nicholas Dang Uji
 ---
 
 <script src="../../_scripts/orgchart.js"></script>
@@ -19,8 +19,7 @@ title: Ethan Chan Uji
         img_0: "img"
     },
     nodes: [
-        { id: 1, name: "Ethan Chan", numbernick: "#1 \"\Doc McStuffins\"\ ", class: "Charter Class \|\ SP20", img: "../../images/bros/1echan.png" },
-        { id: 2, pid: 1, name: "Kristian Janevski", numbernick: "#37 \"\MESSIDONIΛ\"\ ", class: "Delta Class \|\ SP23", img: "https://cdn.balkan.app/shared/empty-img-white.svg" },
+        { id: 1, name: "Nicholas Dang", numbernick: "#2 \"\Cookin Mama\"\ ", class: "Charter Class \|\ SP20", img: "../../images/bros/2ndang.png" },
     ]
 });
 </script>

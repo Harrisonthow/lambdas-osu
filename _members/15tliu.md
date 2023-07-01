@@ -1,6 +1,6 @@
 ---
 name: Tyler Liu
-image: images/photo.jpg
+image: images/bros/15tliu.png
 role: undergrad
 group: alpha
 description: "#15 'Re:Zerø'"
