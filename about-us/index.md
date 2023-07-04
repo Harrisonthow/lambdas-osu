@@ -18,18 +18,6 @@ The Associate Chapter of Lambda Phi Epsilon at The Ohio State University was est
   image="images/about-us/CharterClass.jpg"
 %}
 
-{% capture col1 %} X Active Brothers {% endcapture %}
-
-{% capture col2 %} Y Alumni {% endcapture %}
-
-{% capture col3 %} Z Average Class Size {% endcapture %}
-{%
-  include cols.html
-  col1=col1
-  col2=col2
-  col3=col3
-%}
-
 
 {% include section.html %}
 ## Mission
@@ -62,43 +50,7 @@ A world where Lambda men live authentic, fulfilling lives and contribute through
 {%
   include figure.html
   image="images/about-us/FoundingFathers.jpeg"
-  caption="Mr. Hunter Chang
-
-  Mr. Randy Fujimoto
-
-  Mr. John Hanvey
-
-  Mr. Craig Ishigo
-
-  Mr. Jeff Kaku
-
-  Mr. Bobby Kawai
-
-  Mr. Dean Kumagawa
-
-  Mr. Jim Lee
-
-  Mr. Bruce Mau
-
-  Mr. Ted Mihara
-
-  Mr. Neil Miyazaki
-
-  Mr. Darryl L. Mu
-
-  Mr. Kelvin Sakai
-
-  Mr. Kevin Shida
-
-  Mr. Albert Sun
-
-  Mr. Weyton Tam
-
-  Mr. Jamie Watanabe
-
-  Mr. Bennett Wong
-
-  Mr. Fred Wong"
+  caption="Our founding fathers: Mr. Hunter Chang \| Mr. Randy Fujimoto \| Mr. John Hanvey \| Mr. Craig Ishigo \| Mr. Jeff Kaku \| Mr. Bobby Kawai \| Mr. Dean Kumagawa \| Mr. Jim Lee \| Mr. Bruce Mau \| Mr. Ted Mihara \| Mr. Neil Miyazaki \| Mr. Darryl L. Mu \| Mr. Kelvin Sakai \| Mr. Kevin Shida \| Mr. Albert Sun \| Mr. Weyton Tam \| Mr. Jamie Watanabe \| Mr. Bennett Wong \| Mr. Fred Wong"
 %}
 
 {% include section.html %}

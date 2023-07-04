@@ -11,10 +11,10 @@ nav:
       <a href="1echan"><li class="glide__slide"><img src="images/1EthanChan.png"></li></a>
       <a href="2ndang"><li class="glide__slide"><img src="images/2NicholasDang.png"></li></a>
       <a href="3sdupiano"><li class="glide__slide"><img src="images/3SeanDupiano.png"></li></a>
-      <li class="glide__slide"><img src="images/4KentHoang.png"></li>
-      <li class="glide__slide"><img src="images/5AlexNguyen.png"></li>
-      <li class="glide__slide"><img src="images/6Redacted.png"></li>
-      <li class="glide__slide"><img src="images/7TraceNguyen.png"></li>
+      <a href="4khoang"><li class="glide__slide"><img src="images/4KentHoang.png"></li></a>
+      <a href="5anguyen"><li class="glide__slide"><img src="images/5AlexNguyen.png"></li></a>
+      <a href="6redacted"><li class="glide__slide"><img src="images/6Redacted.png"></li></a>
+      <a href="7tnguyen"><li class="glide__slide"><img src="images/7TraceNguyen.png"></li></a>
       <li class="glide__slide"><img src="images/8WesleyNguyen.png"></li>
       <li class="glide__slide"><img src="images/9TagSison.png"></li>
       <li class="glide__slide"><img src="images/10JerryTa.png"></li>
