@@ -15,18 +15,17 @@ nav:
       <a href="5anguyen"><li class="glide__slide"><img src="images/5AlexNguyen.png"></li></a>
       <a href="6redacted"><li class="glide__slide"><img src="images/6Redacted.png"></li></a>
       <a href="7tnguyen"><li class="glide__slide"><img src="images/7TraceNguyen.png"></li></a>
-      <li class="glide__slide"><img src="images/8WesleyNguyen.png"></li>
-      <li class="glide__slide"><img src="images/9TagSison.png"></li>
-      <li class="glide__slide"><img src="images/10JerryTa.png"></li>
-      <li class="glide__slide"><img src="images/11KennyT.png"></li>
-      <li class="glide__slide"><img src="images/12KennyVo.png"></li>
+      <a href="8wnguyen"><li class="glide__slide"><img src="images/8WesleyNguyen.png"></li></a>
+      <a href="9jta"><li class="glide__slide"><img src="images/9JerryTa.png"></li></a>
+      <a href="10tsison"><li class="glide__slide"><img src="images/10TagSison.png"></li></a>
+      <a href="11ktruong"><li class="glide__slide"><img src="images/11KennyT.png"></li></a>
+      <a href="12kvo"><li class="glide__slide"><img src="images/12KennyVo.png"></li></a>
     </ul>
   </div>
   <div data-glide-el="controls">
   <button data-glide-dir="<<">Start</button>
   <button data-glide-dir=">>">End</button>
 </div>
-<div class="glide__track" data-glide-el="track">...</div>
 
   <div class="glide__arrows" data-glide-el="controls">
     <button class="glide__arrow glide__arrow--left" data-glide-dir="<">prev</button>
