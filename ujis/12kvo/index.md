@@ -1,5 +1,5 @@
 ---
-title: Trace Nguyen Uji
+title: Kenny Vo Uji
 ---
 
 <script src="../../_scripts/orgchart.js"></script>
@@ -20,10 +20,10 @@ title: Trace Nguyen Uji
     },
     
     nodes: [
-        { id: 1, name: "Trace Nguyen", numbernick: "#7  \"¿Winnie the Who?\"\ ", class: "Charter Class  \|\ SP20", img: "../../images/bros/7tnguyen.png" },     
-        { id: 2, pid: 1, name: "Michael Joo", numbernick: "#23 \"\ΛLGORHYTHM\"\ ", class: "Beta Class \|\ FA21", img: "../../images/bros/23mjoo.png" },        
-        { id: 3, pid: 1, name: "Dante Le", numbernick: "#26 \"uncHEΛRTed\"\ ", class: "Gamma Class \|\ SP22", img: "https://cdn.balkan.app/shared/empty-img-white.svg" },        
-        { id: 4, pid: 3, name: "Dylan Nguyen", numbernick: "#34 \"\SHΛTTERPROOF\"\ ", class: "Delta Class \|\ SP23", img: "https://cdn.balkan.app/shared/empty-img-white.svg" },
+        { id: 1, name: "Kenny Vo", numbernick: "#12  \"M.I.R.I.O\"\ ", class: "Charter Class  \|\ SP20", img: "../../images/bros/12kvo.png" },     
+        { id: 2, pid: 1, name: "William Lim", numbernick: "#32 \"\E.S.C.A.N.O.R\"\ ", class: "Gamma Class \|\ SP22", img: "https://cdn.balkan.app/shared/empty-img-white.svg" },        
+        { id: 3, pid: 2, name: "Adam Huang", numbernick: "#36 \"Λ.S.T.A\"\ ", class: "Gamma Class \|\ SP23", img: "https://cdn.balkan.app/shared/empty-img-white.svg" },        
+
     ]
 });
 </script>
