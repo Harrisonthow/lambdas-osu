@@ -4,7 +4,10 @@ nav:
   order: 3
   tooltip: Meet the brothers of LPhiE
 ---
-
+<!--
+<button onclick="scrollToClass('charter')">Scroll to Charter Class</button>
+debug only to scroll to prefered position
+-->
 # {% include icon.html icon="fa-solid fa-users" %}Leadership
 
 {% include section.html %}
@@ -80,5 +83,4 @@ Class Song: _Cupid_ by FIFTY FIFTY
 
 {% include list.html data="members" component="portrait" filters="group: delta" %}
 
-
-
+<script src = "_scripts/scroll.js"></script>
