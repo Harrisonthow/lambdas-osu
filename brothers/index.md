@@ -10,16 +10,19 @@ debug only to scroll to prefered position
 -->
 # {% include icon.html icon="fa-solid fa-users" %}Leadership
 
+# {% include icon.html icon="fa-solid fa-users" %}Executive Board
+
 {% include section.html %}
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" caption="William Lim - President" %}
-{% include figure.html image="images/photo.jpg" caption="Dante Le - Internal Vice President"%}
-{% include figure.html image="images/photo.jpg" caption="Alex Chiu - External President"%}
-{% include figure.html image="images/photo.jpg" caption="Harrison Thow - Treasurer"%}
-{% include figure.html image="images/photo.jpg" caption="Zilai Wang - Secretary"%}
-{% include figure.html image="images/photo.jpg" caption="New Member Educator"%}
+{% include figure.html image="images/eboard/will.webp" caption="William Lim - President" %}
+{% include figure.html image="images/eboard/dante.webp" caption="Dante Le - Internal Vice President"%}
+{% include figure.html image="images/eboard/chiu.webp" caption="Alex Chiu - External Vice President"%}
+{% include figure.html image="images/eboard/harrison.webp" caption="Harrison Thow - Treasurer"%}
+{% include figure.html image="images/eboard/zilai.webp" caption="Zilai Wang - Secretary"%}
+{% include figure.html image="images/bros/7tnguyen.png" caption="Trace Nguyen - New Member Educator SP23"%}
+
 
 {% endcapture %}
 
@@ -61,7 +64,7 @@ Class Song: _Act Up_ by Rich Brian & EARTHGANG
 
 {% include section.html %}
 
-## Gamma Class "Genjitsu Gammas" | SP22
+<center>## Gamma Class "Genjitsu Gammas" | SP22</center>
 Class Song: _The Feels_ by TWICE 
 
 ![](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY?si=69da87a009bc4830)
