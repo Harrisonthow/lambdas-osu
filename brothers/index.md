@@ -25,7 +25,10 @@ nav:
 
 {%include section.html%} 
 ## Charter Class "Twelve Tenshi" | SP20
-Class Song: _Friends in Low Places_ by Garth Brooks 
+
+**New Member Educator**: Zachary "Stephen Hawking" Antonius
+
+**Class Song**: _Friends in Low Places_ by Garth Brooks 
 
 ![](https://open.spotify.com/track/0TErIsJMsMCN01oGH7tiAh?si=22cab197df5340a0)
 
@@ -37,7 +40,12 @@ Class Song: _Friends in Low Places_ by Garth Brooks
 {% include section.html %}
 
 ## Alpha Class "Akuma Alphas" | SP21
-Class Song: _The Purge_ by Jay Park 
+
+**New Member Educator**: Nicholas "Cookin' Mama" Dang
+
+**Assistant New Member Educator**: Kenny "SBD" Truong
+
+**Class Song**: _The Purge_ by Jay Park 
 
 ![](https://open.spotify.com/track/1AImhVnSRsY4svcZRAtE5l?si=3114240e97244dcc)
 
@@ -49,7 +57,12 @@ Class Song: _The Purge_ by Jay Park
 
 
 ## Beta Class "Bushido Betas" | FA21
-Class Song: _Act Up_ by Rich Brian & EARTHGANG 
+
+**New Member Educator**: Kenny "M.I.R.I.O" Vo
+
+**Assistant New Member Educator**: Jerry "Brock" Ta
+
+**Class Song**: _Act Up_ by Rich Brian & EARTHGANG 
 
 ![](https://open.spotify.com/track/36Ajx3OHw1qOAjS4tJs38V?si=020b2f65eed34701)
 
@@ -59,8 +72,13 @@ Class Song: _Act Up_ by Rich Brian & EARTHGANG
 
 {% include section.html %}
 
-<center>## Gamma Class "Genjitsu Gammas" | SP22</center>
-Class Song: _The Feels_ by TWICE 
+## Gamma Class "Genjitsu Gammas" | SP22
+
+**New Member Educator**: Wesley "Phony Hawk" Nguyen
+
+**Assistant New Member Educator**: Michael "ΛLGORHYTHM" Joo
+
+**Class Song**: _The Feels_ by TWICE 
 
 ![](https://open.spotify.com/track/1XyzcGhmO7iUamSS94XfqY?si=69da87a009bc4830)
 
@@ -73,7 +91,12 @@ Class Song: _The Feels_ by TWICE
 
 
 ## Delta Class "Dai-ichi Deltas" | SP23
-Class Song: _Cupid_ by FIFTY FIFTY 
+
+**New Member Educator**: Trace "¿Winnie the Who?" Nguyen
+
+**Assistant New Member Educator**: Alex "Rule 34" Nguyen
+
+**Class Song**: _Cupid_ by FIFTY FIFTY 
 
 ![](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV?si=ade3e6aba87b40c9)
 

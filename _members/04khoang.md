@@ -7,4 +7,11 @@ group: charter
 description: "#4 'Thunderclap'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Kent Hoang | Alumnus
+Ethnicity: Vietnamese
+
+Major: Computer Science and Engineering
+
+Big Bro: Quang "Rodin" Bui (UMBC)
+
+[Click here](/ujis/4khoang/) to view Kent's Lineage!

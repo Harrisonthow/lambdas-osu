@@ -6,4 +6,11 @@ group: alpha
 description: "#18 'PΛNCHAM'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Andy Garcia | Active
+Ethnicity: Filipino
+
+Major: Human Development Family Science
+
+Big Bro: [Jerry "Brock" Ta](10jta)
+
+[Click here](/ujis/10jta/) to view Andy's Lineage!

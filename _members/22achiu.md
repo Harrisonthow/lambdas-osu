@@ -6,4 +6,11 @@ group: beta
 description: "#22 'REYN'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Alex Chiu | Active
+Ethnicity: Thai, Taiwanese,Chinese
+
+Major: Chemical Engineering
+
+Big Bro: [Tyler "Re:Zerø" Liu ](15tliu)
+
+[Click here](/ujis/3sdupiano/) to view Alex's Lineage!

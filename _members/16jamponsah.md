@@ -6,4 +6,11 @@ group: alpha
 description: "#16 'Zoro'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Joshua Amponsah | Alumnus
+Ethnicity: Ghanaian
+
+Major: Psychology & Philosophy
+
+Big Bro: [Tagumpay "Pillow Talk" Sison](09tsison)
+
+[Click here](/ujis/9tsison/) to view Joshua's Lineage!

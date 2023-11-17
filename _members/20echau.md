@@ -6,4 +6,11 @@ group: beta
 description: "#20 'ΛERO'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Ethan Chau | Active
+Ethnicity: Chinese
+
+Major: Aerospace Engineering
+
+Big Bro: [Kenny "SBD" Truong](11ktruong)
+
+[Click here](/ujis/11ktruong/) to view Ethan's Lineage!

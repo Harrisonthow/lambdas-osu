@@ -1,6 +1,6 @@
 ---
 name: Junho Choi
-image: images/photo.jpg
+image: images/bros/33jchoi.jpeg
 role: undergrad
 group: delta
 description: "#33 'MΛLPHON'"

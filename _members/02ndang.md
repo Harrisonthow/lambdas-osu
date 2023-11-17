@@ -6,4 +6,11 @@ group: charter
 description: "#2 'Cookin Mama'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Nicholas Dang | Alumnus
+Ethnicity: Vietnamese
+
+Major: History
+
+Big Bro: Van "Rerun" Dao (FSU)
+
+[Click here](/ujis/2ndang/) to view Nicholas' Lineage!

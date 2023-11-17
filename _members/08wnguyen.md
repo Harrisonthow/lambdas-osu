@@ -6,4 +6,11 @@ group: charter
 description: "#8 'Phony Hawk'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Wesley Nguyen | Active
+Ethnicity: Vietnamese
+
+Major: Computer Science and Engineering
+
+Big Bro: Than "Eeyore" Nguyen (Baylor)
+
+[Click here](/ujis/8wnguyen/) to view Wesley's Lineage!

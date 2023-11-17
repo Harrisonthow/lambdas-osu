@@ -6,4 +6,11 @@ group: charter
 description: "#3 'Wumbo'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Sean Dupiano | Alumnus
+Ethnicity: Filipino
+
+Major: Finance
+
+Big Bro: James "proMEtheus" Kim (UMBC)
+
+[Click here](/ujis/3sdupiano/) to view Sean's Lineage!

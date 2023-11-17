@@ -6,4 +6,11 @@ group: alpha
 description: "#15 'Re:Zerø'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Tyler Liu | Alumnus
+Ethnicity: Chinese
+
+Major: Computer Science and Information
+
+Big Bro: [Sean "Wumbo" Dupiano](03sdupiano)
+
+[Click here](/ujis/3sdupiano/) to view Tyler's Lineage!

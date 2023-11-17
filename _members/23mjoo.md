@@ -6,4 +6,11 @@ group: beta
 description: "#22 'ΛLGORHYTHM'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Michael Joo | Alumnus
+Ethnicity: Korean
+
+Major: Psychology
+
+Big Bro: [Trace "¿Winnie the Who?" Nguyen](07tnguyen)
+
+[Click here](/ujis/7tnguyen/) to view Michael's Lineage!

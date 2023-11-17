@@ -6,4 +6,11 @@ group: charter
 description: "#5 'Rule 34'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Alex Nguyen | Alumnus
+Ethnicity: Vietnamese
+
+Major: Computer Information Science
+
+Big Bro: Mark "Big Daddy" Lacanilao (BU)
+
+[Click here](/ujis/5anguyen/) to view Alex's Lineage!

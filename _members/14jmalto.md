@@ -6,4 +6,11 @@ group: alpha
 description: "#14 'NOMΛD'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Jared Malto | Active
+Ethnicity: Chinese & Filipino
+
+Major: Computer Information Science
+
+Big Bro: [Wesley "Phony Hawk" Nguyen](08wnguyen)
+
+[Click here](/ujis/8wnguyen/) to view Jared's Lineage!

@@ -1,6 +1,6 @@
 ---
 name: Dante Le
-image: images/bros/dant.JPG
+image: images/bros/26dle.png
 role: undergrad
 group: gamgam
 description: "#26 'uncHEΛRTed'"

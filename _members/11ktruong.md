@@ -6,4 +6,11 @@ group: charter
 description: "#11 'SBD'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Kenny Truong | Active
+Ethnicity: Vietnamese
+
+Major: Computer Science and Engineering
+
+Big Bro: Brent "RIZAL" de Leon (UAlbany)
+
+[Click here](/ujis/11ktruong/) to view Kenny's Lineage!

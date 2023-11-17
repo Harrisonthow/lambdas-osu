@@ -6,4 +6,11 @@ group: beta
 description: "#21 'ΛRETE'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Hamzah Chaudhry | Active
+Ethnicity: Pakistani & Bangladeshi
+
+Major: Biology
+
+Big Bro: [Wesley "Phony Hawk" Nguyen](08wnguyen)
+
+[Click here](/ujis/8wnguyen/) to view Hamzah's Lineage!

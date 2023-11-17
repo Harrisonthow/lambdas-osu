@@ -6,4 +6,11 @@ group: charter
 description: "#7 '¿Winnie the Who?'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Trace Nguyen | Alumnus
+Ethnicity: Vietnamese
+
+Major: Mechanical Engineering
+
+Big Bro: Nic "Freestyle" Marchini (UConn)
+
+[Click here](/ujis/7tnguyen/) to view Trace's Lineage!
