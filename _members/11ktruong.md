@@ -1,6 +1,6 @@
 ---
 name: Kenny Truong
-image: images/bros/11ktruong.png
+image: images/bros/11ktruong.webp
 role: alum
 group: charter
 description: "#11 'SBD'"

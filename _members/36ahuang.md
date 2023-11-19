@@ -6,4 +6,11 @@ group: delta
 description: "#36 'Λ.S.T.A'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Adam Huang | Active
+Ethnicity: Taiwanese
+
+Major: Information Systems
+
+Big Bro: [William "E.S.C.A.N.O.R" Lim](32wlim)
+
+[Click here](/ujis/12kvo/) to view Adam's Lineage!

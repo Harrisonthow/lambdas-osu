@@ -1,6 +1,6 @@
 ---
 name: Michael Joo
-image: images/bros/23mjoo.png
+image: images/bros/23mjoo.webp
 role: undergrad
 group: beta
 description: "#22 'ΛLGORHYTHM'"

@@ -1,5 +1,6 @@
 ---
 title: Ujis
+layout: uji
 nav:
   order: 4
   tooltip: Learn more about the Ujis
@@ -15,8 +16,8 @@ nav:
       <a href="5anguyen"><li class="glide__slide"><img src="images/5AlexNguyen.png"></li></a>
       <a href="7tnguyen"><li class="glide__slide"><img src="images/7TraceNguyen.png"></li></a>
       <a href="8wnguyen"><li class="glide__slide"><img src="images/8WesleyNguyen.png"></li></a>
-      <a href="9jta"><li class="glide__slide"><img src="images/9JerryTa.png"></li></a>
-      <a href="10tsison"><li class="glide__slide"><img src="images/10TagSison.png"></li></a>
+      <a href="9tsison"><li class="glide__slide"><img src="images/9TagSison.png"></li></a>
+      <a href="10jta"><li class="glide__slide"><img src="images/10JerryTa.png"></li></a>
       <a href="11ktruong"><li class="glide__slide"><img src="images/11KennyT.png"></li></a>
       <a href="12kvo"><li class="glide__slide"><img src="images/12KennyVo.png"></li></a>
     </ul>

@@ -20,7 +20,7 @@ title: Jerry Ta Uji
     },
     
     nodes: [
-        { id: 1, name: "Jerry Ta", numbernick: "#9  \"Brock\"\ ", class: "Charter Class  \|\ SP20", img: "../../images/bros/9jta.png" },     
+        { id: 1, name: "Jerry Ta", numbernick: "#10  \"Brock\"\ ", class: "Charter Class  \|\ SP20", img: "../../images/bros/9jta.png" },     
         { id: 2, pid: 1, name: "Andrew Garcia", numbernick: "#18 \"\PΛNCHAM\"\ ", class: "Alpha Class \|\ SP21", img: "../../images/bros/18agarcia.png" },        
         { id: 3, pid: 2, name: "James Li", numbernick: "#24 \"NBA CHUNGBOY\"\ ", class: "Beta Class \|\ FA21", img: "../../images/bros/24jli.png" },    
         { id: 4, pid: 3, name: "Padraig Hurley", numbernick: "#40 \"\ΛSTRO\"\ ", class: "Delta Class \|\ SP23", img: "https://cdn.balkan.app/shared/empty-img-white.svg" },

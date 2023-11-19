@@ -6,4 +6,11 @@ group: gamgam
 description: "#28 'MONΛRCH'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Jason Zhang | Alumnus
+Ethnicity: Chinese
+
+Major: Finance & Data Analytics
+
+Big Bro: [Alex "REYN" Chiu](22achiu)
+
+[Click here](/ujis/3sdupiano/) to view Jason's Lineage!

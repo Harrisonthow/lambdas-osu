@@ -6,4 +6,11 @@ group: delta
 description: "#40 'STEEZY'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Guanzhou (GZ) Zheng | Active
+Ethnicity: Chinese
+
+Major: Economics
+
+Big Bro: [Jared "NOMΛD" Malto](14jmalto)
+
+[Click here](/ujis/8wnguyen/) to view GZ's Lineage!

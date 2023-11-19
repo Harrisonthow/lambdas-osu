@@ -6,4 +6,12 @@ group: delta
 description: "#34 'SHΛTTERPROOF'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+# Dylan Nguyen | Active
+Ethnicity: Vietnamese
+
+Major: Finance
+
+Big Bro: [Dante "uncHEΛRTed" Le](26dle)
+
+[Click here](/ujis/7tnguyen/) to view Dylan's Lineage!

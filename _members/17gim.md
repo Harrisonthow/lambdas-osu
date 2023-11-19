@@ -1,6 +1,6 @@
 ---
 name: Gill Im
-image: images/bros/17gim.png
+image: images/bros/17gim.webp
 role: alum
 group: alpha
 description: "#17 'KILLUΛ'"

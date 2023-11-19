@@ -1,6 +1,6 @@
 ---
 name: Wesley Nguyen
-image: images/bros/8wnguyen.png
+image: images/bros/8wnguyen.webp
 role: undergrad
 group: charter
 description: "#8 'Phony Hawk'"

@@ -1,6 +1,6 @@
 ---
 name: Trace Nguyen
-image: images/bros/7tnguyen.png
+image: images/bros/7tnguyen.webp
 role: alum
 group: charter
 description: "#7 '¿Winnie the Who?'"

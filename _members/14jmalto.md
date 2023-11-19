@@ -1,6 +1,6 @@
 ---
 name: Jared Malto
-image: images/bros/14jmalto.png
+image: images/bros/14jmalto.webp
 role: undergrad
 group: alpha
 description: "#14 'NOMΛD'"

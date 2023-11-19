@@ -1,6 +1,6 @@
 ---
 name: Alex Nguyen
-image: images/bros/5anguyen.png
+image: images/bros/5anguyen.webp
 role: alum
 group: charter
 description: "#5 'Rule 34'"

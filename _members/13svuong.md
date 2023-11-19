@@ -1,6 +1,6 @@
 ---
 name: Sonny Vuong
-image: images/bros/13svuong.png
+image: images/bros/13svuong.webp
 role: alum
 group: alpha
 description: "#13 'CASΛNOVA'"

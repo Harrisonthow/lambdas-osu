@@ -6,4 +6,11 @@ group: delta
 description: "#35 'CHIKΛ'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Alex Zhang | Active
+Ethnicity: Chinese
+
+Major: Computer Science & Engineering
+
+Big Bro: [Zilai "SEKKI" Wang](30zwang)
+
+[Click here](/ujis/3sdupiano/) to view Alex's Lineage!

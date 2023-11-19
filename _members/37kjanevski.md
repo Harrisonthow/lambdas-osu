@@ -6,4 +6,11 @@ group: delta
 description: "#37 'MESSIDONIΛ'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Kristian Janevski | Active
+Ethnicity: Macedonian
+
+Major: Molecular Genetics
+
+Big Bro: [Ethan "Doc McStuffin's" Chan](01echan)
+
+[Click here](/ujis/1echan/) to view Kristian's Lineage!

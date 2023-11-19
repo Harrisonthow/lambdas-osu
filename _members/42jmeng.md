@@ -6,4 +6,11 @@ group: delta
 description: "#42 'JOΛT'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Jerry Meng | Active
+Ethnicity: Chinese
+
+Major: Computer Science & Engineering
+
+Big Bro: [Sam "MIRΛI" Zhang](27szhang)
+
+[Click here](/ujis/5anguyen/) to view Sam's Lineage!

@@ -1,6 +1,6 @@
 ---
 name: Tagumpay Sison
-image: images/bros/09tsison.png
+image: images/bros/09tsison.webp
 role: alum
 group: charter
 description: "#9 'Pillowtalk'"
@@ -11,6 +11,6 @@ Ethnicity: Filipino
 
 Major: Air Transportation
 
-Big Bro: James "proMEtheus" Kim (UMBC)
+Big Bro: Nic "Freestyle" Marchini (UConn)
 
 [Click here](/ujis/9tsison/) to view Sean's Lineage!

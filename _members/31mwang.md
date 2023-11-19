@@ -6,4 +6,11 @@ group: gamgam
 description: "#31 'T. LΛW'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Mark Wang | Alumnus
+Ethnicity: Chinese
+
+Major: Psychology
+
+Big Bro: [Hamzah "ΛRETE" Chaudhry](21hchaudhry)
+
+[Click here](/ujis/8wnguyen/) to view Mark's Lineage!

@@ -1,6 +1,6 @@
 ---
 name: Ethan Chau
-image: images/bros/20echau.png
+image: images/bros/20echau.webp
 role: undergrad
 group: beta
 description: "#20 'ΛERO'"

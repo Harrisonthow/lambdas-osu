@@ -6,4 +6,11 @@ group: gamgam
 description: "#30 'SEKKI'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Zilai Wang | Active
+Ethnicity: Chinese
+
+Major: Chemial & Biomolecular Engineering
+
+Big Bro: [Alex "REYN" Chiu](22achiu)
+
+[Click here](/ujis/3sdupiano/) to view Zilai's Lineage!

@@ -1,9 +1,16 @@
 ---
 name: James Li
-image: images/bros/24jli.png
+image: images/bros/24jli.webp
 role: undergrad
 group: beta
 description: "#24 'NBA CHUNGBOY'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# James Li | Active
+Ethnicity: Chinese
+
+Major: Chemical Engineering
+
+Big Bro: [Andy "PΛNCHAM" Garcia](18agarcia)
+
+[Click here](/ujis/10jta/) to view James' Lineage!

@@ -6,4 +6,11 @@ group: delta
 description: "#39 'iMΛJINe'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Matthew Gong | Active
+Ethnicity: Chinese
+
+Major: Finance
+
+Big Bro: [Alex "REYN" Chiu](22achiu)
+
+[Click here](/ujis/3sdupiano/) to view Matthew's Lineage!

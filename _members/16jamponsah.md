@@ -1,6 +1,6 @@
 ---
 name: Joshua Amponsah
-image: images/bros/16jamponsah.png
+image: images/bros/16jamponsah.webp
 role: alum
 group: alpha
 description: "#16 'Zoro'"

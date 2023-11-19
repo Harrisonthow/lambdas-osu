@@ -1,6 +1,6 @@
 ---
 name: Kenny Vo
-image: images/bros/12kvo.png
+image: images/bros/12kvo.webp
 role: alum
 group: charter
 description: "#12 'M.I.R.I.O'"

@@ -6,4 +6,11 @@ group: delta
 description: "#33 'MΛLPHON'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Junho Choi | Active
+Ethnicity: Korean
+
+Major: Electrical and Computer Engineering
+
+Big Bro: [Yury "ODM" Pozdneev](29ypozdneev)
+
+[Click here](/ujis/5anguyen/) to view Junho's Lineage!

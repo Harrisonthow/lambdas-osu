@@ -6,4 +6,11 @@ group: gamgam
 description: "#29 'ODM'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Yury Pozdneev | Active
+Ethnicity: Russian
+
+Major: Computer Science & Engineering
+
+Big Bro: [Alex "Rule 34" Nguyen](05anguyen)
+
+[Click here](/ujis/5anguyen/) to view Sam's Lineage!

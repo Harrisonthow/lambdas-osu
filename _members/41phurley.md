@@ -6,4 +6,11 @@ group: delta
 description: "#41 'ΛSTRO'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Padraig Hurley | Active
+Ethnicity: Chinese & Irish
+
+Major: Physics
+
+Big Bro: [James "NBA CHUNGBOY" Li](24jli)
+
+[Click here](/ujis/10jta/) to view Padraig's Lineage!

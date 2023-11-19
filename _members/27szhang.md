@@ -6,4 +6,11 @@ group: gamgam
 description: "#27 'MIRΛI'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Sam Zhang | Active
+Ethnicity: Chinese
+
+Major: Computer Science & Engineering
+
+Big Bro: [Alex "Rule 34" Nguyen](05anguyen)
+
+[Click here](/ujis/5anguyen/) to view Sam's Lineage!

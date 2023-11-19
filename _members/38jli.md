@@ -6,4 +6,11 @@ group: delta
 description: "#38 'BTΛ'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Joseph Li | Active
+Ethnicity: Chinese
+
+Major: Biomedical Engineering
+
+Big Bro: [Andy "PΛNCHAM" Garcia](18agarcia)
+
+[Click here](/ujis/10jta/) to view Joe's Lineage!

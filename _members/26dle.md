@@ -1,9 +1,16 @@
 ---
 name: Dante Le
-image: images/bros/26dle.png
+image: images/bros/26dle.webp
 role: undergrad
 group: gamgam
 description: "#26 'uncHEΛRTed'"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+# Dante Le | Active
+Ethnicity: Vietnamese
+
+Major: Psychology
+
+Big Bro: [Trace "¿Winnie the Who?" Nguyen](07tnguyen)
+
+[Click here](/ujis/7tnguyen/) to view Dante's Lineage!

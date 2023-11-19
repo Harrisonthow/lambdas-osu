@@ -1,6 +1,6 @@
 ---
 name: Kent Hoang
-image: images/bros/4khoang.png
+image: images/bros/4khoang.webp
 description: Lead Programmer
 role: alum
 group: charter
