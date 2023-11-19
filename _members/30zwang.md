@@ -1,6 +1,6 @@
 ---
 name: Zilai Wang
-image: images/photo.jpg
+image: images/bros/30zwang.webp
 role: undergrad
 group: gamgam
 description: "#30 'SEKKI'"

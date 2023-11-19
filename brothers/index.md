@@ -8,7 +8,6 @@ nav:
 <button onclick="scrollToClass('charter')">Scroll to Charter Class</button>
 debug only to scroll to prefered position
 -->
-# {% include icon.html icon="fa-solid fa-users" %}Leadership
 
 # {% include icon.html icon="fa-solid fa-users" %}Executive Board
 
@@ -21,7 +20,7 @@ debug only to scroll to prefered position
 {% include figure.html image="images/eboard/chiu.webp" caption="Alex Chiu - External Vice President"%}
 {% include figure.html image="images/eboard/harrison.webp" caption="Harrison Thow - Treasurer"%}
 {% include figure.html image="images/eboard/zilai.webp" caption="Zilai Wang - Secretary"%}
-{% include figure.html image="images/bros/7tnguyen.png" caption="Trace Nguyen - New Member Educator SP23"%}
+{% include figure.html image="images/bros/7tnguyen.webp" caption="Trace Nguyen - New Member Educator SP23"%}
 
 
 {% endcapture %}
@@ -109,4 +108,4 @@ debug only to scroll to prefered position
 
 {% include list.html data="members" component="portrait" filters="group: delta" %}
 
-<script src = "_scripts/scroll.js"></script>
+<script src = "../../_scripts/scroll.js"></script>

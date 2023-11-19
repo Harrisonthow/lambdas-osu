@@ -1,6 +1,6 @@
 ---
 name: Joseph Li
-image: images/bros/38jli.png
+image: images/bros/38jli.webp
 role: undergrad
 group: delta
 description: "#38 'BTΛ'"

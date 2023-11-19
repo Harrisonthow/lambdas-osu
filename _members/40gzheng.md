@@ -1,6 +1,6 @@
 ---
 name: Guanzhou Zheng
-image: images/photo.jpg
+image: images/bros/40gz.webp
 role: undergrad
 group: delta
 description: "#40 'STEEZY'"

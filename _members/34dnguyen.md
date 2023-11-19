@@ -1,6 +1,6 @@
 ---
 name: Dylan Nguyen
-image: images/photo.jpg
+image: images/bros/34dnguyen.webp
 role: undergrad
 group: delta
 description: "#34 'SHΛTTERPROOF'"

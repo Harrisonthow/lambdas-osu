@@ -3,7 +3,7 @@ name: Michael Joo
 image: images/bros/23mjoo.webp
 role: undergrad
 group: beta
-description: "#22 'ΛLGORHYTHM'"
+description: "#23 'ΛLGORHYTHM'"
 ---
 
 # Michael Joo | Alumnus

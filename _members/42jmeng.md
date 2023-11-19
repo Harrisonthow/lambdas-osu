@@ -1,6 +1,6 @@
 ---
 name: Jerry Meng
-image: images/photo.jpg
+image: images/bros/42jmeng.webp
 role: undergrad
 group: delta
 description: "#42 'JOΛT'"

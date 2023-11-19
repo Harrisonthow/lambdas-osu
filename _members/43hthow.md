@@ -1,6 +1,6 @@
 ---
 name: Harrison Thow
-image: images/photo.jpg
+image: images/bros/43hthow.webp
 role: undergrad
 group: delta
 description: "#43 'VΛPRE'"

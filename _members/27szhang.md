@@ -1,6 +1,6 @@
 ---
 name: Sam Zhang
-image: images/photo.jpg
+image: images/bros/27szhang.webp
 role: undergrad
 group: gamgam
 description: "#27 'MIRΛI'"

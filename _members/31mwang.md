@@ -1,6 +1,6 @@
 ---
 name: Mark Wang
-image: images/photo.jpg
+image: images/bros/31mwang.webp
 role: undergrad
 group: gamgam
 description: "#31 'T. LΛW'"

@@ -1,6 +1,6 @@
 ---
 name: Yury Pozdneev
-image: images/photo.jpg
+image: images/bros/29ypozdneev.webp
 role: undergrad
 group: gamgam
 description: "#29 'ODM'"

@@ -1,6 +1,6 @@
 ---
 name: Kristian Janevski
-image: images/bros/37kjanevski.jpeg
+image: images/bros/37kjanevski.webp
 role: undergrad
 group: delta
 description: "#37 'MESSIDONIΛ'"

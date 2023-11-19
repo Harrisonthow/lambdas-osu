@@ -1,6 +1,6 @@
 ---
 name: Alex Zhang
-image: images/photo.jpg
+image: images/bros/35azhang.webp
 role: undergrad
 group: delta
 description: "#35 'CHIKΛ'"
